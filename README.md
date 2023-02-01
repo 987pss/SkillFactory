@@ -2,6 +2,7 @@
 Задания
 
 Задание 12.7.3. Расчёт суммы и дохода по вкладу.
+
 https://gist.github.com/987pss/9b533a987865ed79e578ca5df9552833
 
 Задание 13.6. Min and Max values in rows.
